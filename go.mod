@@ -7,6 +7,6 @@ require (
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
 )
 
-replace github.com/PaloAltoNetworks/pango => github.com/fh-dfarrar/pango
+replace github.com/PaloAltoNetworks/pango => github.com/fh-dfarrar/pango v0.0.1
 
 go 1.17
